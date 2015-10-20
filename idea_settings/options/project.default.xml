@@ -1,0 +1,142 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject version="4">
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+          <entry name="!?*.aj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="false">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="NamedScopeManager">
+        <order />
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Projects/ak-lambda/core" value="7197269645000" />
+            <entry key="$USER_HOME$/Projects/azuga-src/server" value="31662491344000" />
+            <entry key="$USER_HOME$/Projects/ludington/server" value="33111974564000" />
+            <entry key="$USER_HOME$/Projects/templates/akka-monitoring-kamon-statsd" value="1440506913000" />
+            <entry key="$USER_HOME$/Projects/templates/hello-apache-spark" value="1440168892000" />
+            <entry key="$USER_HOME$/Projects/templates/hello-kafka" value="1439471419000" />
+            <entry key="$USER_HOME$/Projects/tests/spark-mini" value="1440167237000" />
+            <entry key="$USER_HOME$/git/akka-kamon-example" value="1440672501000" />
+            <entry key="$USER_HOME$/git/azuga-web" value="1442923654000" />
+            <entry key="$USER_HOME$/git/templates/akka-docker-cluster-example" value="1440595132000" />
+            <entry key="$USER_HOME$/git/templates/akka-sample-cluster-scala" value="1440599112000" />
+            <entry key="$USER_HOME$/git/tests/akka-persistence-cassandra" value="1443605823000" />
+            <entry key="$USER_HOME$/git/tests/azuga-web" value="1443002878000" />
+            <entry key="$USER_HOME$/git/tests/spray-oauth" value="7205551285000" />
+            <entry key="$USER_HOME$/git/unshackled/common-config-plugin" value="1444226120000" />
+            <entry key="$USER_HOME$/git/unshackled/core/source" value="1444318723000" />
+            <entry key="$USER_HOME$/git/valet-dmv" value="12981661317000" />
+            <entry key="$USER_HOME$/git/yausl" value="1443777902000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

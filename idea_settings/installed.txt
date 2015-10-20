@@ -1,0 +1,7 @@
+com.intellij
+YAML/Ansible support
+com.thoughtworks.gauge
+com.vladsch.idea.multimarkdown
+net.nicoulaj.idea.markdown
+org.intellij.plugins.markdown
+org.intellij.scala

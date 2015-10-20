@@ -1,0 +1,20 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="Equality.scala" type="PLAIN_TEXT" />
+      <mapping ext="sjsir" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="boilerplate" type="PLAIN_TEXT" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="4" />
+  </component>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,37 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy 1" parent="Eclipse (Mac OS X)">
+  <action id="Back" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta C" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="EditSource" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta F" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift control F" />
+  </action>
+  <action id="Scala.MakeExplicit" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
